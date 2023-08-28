@@ -1,0 +1,21 @@
+{
+    "name": "niikhsan/satusehat",
+    "description": "api for satusehat",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Niikhsan\\Satusehat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "niikhsan",
+            "email": "aikhsan17@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
