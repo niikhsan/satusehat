@@ -1,12 +1,13 @@
 {
     "name": "niikhsan/satusehat",
     "description": "api for satusehat",
-    "type": "project",
+    "type": "library",
     "keywords": ["satusehat", "php", "api"],
     "require": {
         "php":"^7.2",
         "guzzlehttp/guzzle": "^7.8"
     },
+    "require-dev": {},
     "license": "MIT",
     "repositories": [
         {
