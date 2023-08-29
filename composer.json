@@ -8,6 +8,12 @@
         "guzzlehttp/guzzle": "^7.8"
     },
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/niikhsan/satusehat"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Niikhsan\\Satusehat\\": "src/"
