@@ -2,7 +2,9 @@
     "name": "niikhsan/satusehat",
     "description": "api for satusehat",
     "type": "library",
+    "keywords": ["satusehat", "php", "api"],
     "require": {
+        "php":"^7.2",
         "guzzlehttp/guzzle": "^7.8"
     },
     "license": "MIT",
@@ -17,5 +19,10 @@
             "email": "aikhsan17@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0-dev"
+        }
+    }
 }
