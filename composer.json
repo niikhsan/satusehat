@@ -1,7 +1,7 @@
 {
     "name": "niikhsan/satusehat",
     "description": "api for satusehat",
-    "type": "library",
+    "type": "project",
     "keywords": ["satusehat", "php", "api"],
     "require": {
         "php":"^7.2",
