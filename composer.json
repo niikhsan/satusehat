@@ -21,7 +21,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Niikhsan\\Satusehat\\": "src/"
+            "niikhsan\\satusehat\\": "src/"
         }
     },
     "authors": [
