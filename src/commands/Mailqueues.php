@@ -1,4 +1,4 @@
-<?php namespace crocodicstudio\crudbooster\commands;
+<?php namespace niikhsan\satusehat\commands;
 
 use Cache;
 use niikhsan\satusehat\helpers\CRUDBooster;
